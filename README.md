@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nitin Singh Negi</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](head)
+<h1 align="left">Hi 👋, I'm Nitin Singh Negi</h1>
+<h3 align="left">A passionate full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin1-singh&label=Profile%20views&color=0e75b6&style=flat" alt="nitin1-singh" /> </p>
+<div style="display:flex;">
+  <div>
+        <p>I'm Nitin Singh Negi, a seasoned Full Stack Web Developer based in [Your Location]. My journey in web development has equipped me with a diverse skill set and a            keen eye for detail. I love tackling challenges and transforming ideas into functional, elegant, and scalable solutions.</p>
+  </div>
+  <div>
+      <img align="right" alt="coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  </div>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin1-singh" alt="nitin1-singh" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitin1-singh&label=Profile%20views&color=0e75b6&style=flat" alt="Nitin1-singh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitin1-singh" alt="nitin1-singh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
